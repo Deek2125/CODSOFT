@@ -240,3 +240,11 @@ input:checked ~ .bubble::after {
 	text-decoration: line-through;
 	color: var(--grey);
 }
+.copyright{
+	width: 100%;
+	text-align: center;
+	padding: 25px 0;
+	background:#262626;
+	font-weight: 250;
+	margin-top: 20px;
+}
