@@ -8,11 +8,11 @@ It features both a light and dark theme for user preference. The calculator can 
 - Light and Dark themes for user customization.
 - User-friendly and responsive design for various screen sizes.
 ## Demo
-You can try out the live demo of this calculator app by [clicking here](demo-link).
+You can try out the live demo of this calculator app by [clicking here]https://deek2125.github.io/calculator/
 ## Getting Started
 To run this calculator app locally, follow these steps:
 1. Clone the repository:
-
+https://github.com/Deek2125/CODSOFT
 2. Open the project folder in your code editor.
 3. Open `calci.html` in your web browser.
 ## Usage
@@ -44,5 +44,5 @@ If you have any questions or suggestions, feel free to contact us at @lalithdeek
 
 Enjoy using the calculator app, and thank you for your support! We welcome your feedback and contributions to make it even better.
 
-[demo-link]: https://yourdomain.com/calculator-app
-[repository-link]: https://github.com/yourusername/calculator-app
+[demo-link]:https://deek2125.github.io/calculator/
+[repository-link]:https://github.com/Deek2125/CODSOFT
