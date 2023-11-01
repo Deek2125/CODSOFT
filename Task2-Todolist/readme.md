@@ -18,14 +18,14 @@ It allows users to create, manage, and organize their tasks or to-do items. The 
 
 ## Demo
 
-You can try out the live demo of this to-do list app by [clicking here](demo-link).
+You can try out the live demo of this to-do list app by [clicking here]https://deek2125.github.io/todolist/
 
 ## Getting Started
 
 To run this to-do list app locally, follow these steps:
 
 1. Clone the repository:
-
+https://github.com/Deek2125/CODSOFT
 2. Open the project folder in your code editor.
 
 3. Open `index.html` in your web browser.
@@ -57,5 +57,5 @@ If you have any questions or suggestions, feel free to contact us at lalithdeeks
 
 Enjoy using the to-do list app, and thank you for your support! We welcome your feedback and contributions to make it even better.
 
-[demo-link]: https://yourdomain.com/todo-list-app
-[repository-link]: https://github.com/yourusername/todo-list-app
+[demo-link]: https://deek2125.github.io/todolist/
+[repository-link]: https://github.com/Deek2125/CODSOFT
