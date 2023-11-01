@@ -14,7 +14,7 @@ It's built using HTML, CSS, and JavaScript. The portfolio provides an interactiv
 
 ## Live Demo
 
-You can explore my personal portfolio by visiting [here](portfolio-link).
+You can explore my personal portfolio by visiting [here]https://deek2125.github.io/portfolio/
 
 ## Getting Started
 
@@ -60,5 +60,5 @@ If you have any questions or suggestions, feel free to contact me at lalithdeeks
 
 Thank you for visiting my personal portfolio! I hope you enjoy exploring my work and experiences. Your feedback and contributions are always welcome.
 
-[portfolio-link]: https://yourdomain.com/your-username.github.io
-[repository-link]: https://github.com/yourusername/your-username.github.io
+[portfolio-link]: https://deek2125.github.io/portfolio/
+[repository-link]: https://github.com/Deek2125/CODSOFT
